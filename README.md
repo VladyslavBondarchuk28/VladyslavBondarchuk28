@@ -3,8 +3,9 @@
 
 ---
 
+- 🏅 **Dean’s Honour Roll (Fall 2025)** — Term GPA 3.5+  
 - 🔭 I’m currently working on **small frontend and database projects** to strengthen my programming fundamentals  
-- 🌱 I’m currently deepening my skills in **C#, JavaScript, SQL, Git, and software development best practices.**
+- 🌱 I’m currently deepening my skills in **C#, JavaScript, SQL, Git, and software development best practices**  
 - 👯 I’m looking to collaborate on **beginner-friendly web or software development projects**  
 - 🤝 I’m interested in **improving my coding practices and learning from real-world projects**  
 - 💬 Ask me about **HTML, CSS, JavaScript, SQL fundamentals, and problem-solving**  
@@ -15,7 +16,7 @@
 
 ### 🔗 Connect with me
 - 💻 **GitHub:** https://github.com/vladyslavbondarchuk28  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/vladyslav-bondarchuk-044302397/
+- 💼 **LinkedIn:** https://www.linkedin.com/in/vladyslav-bondarchuk-044302397/  
 - 📧 **Email:** 2008vladbond@gmail.com  
 
 ---
@@ -30,5 +31,3 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 </p>
-
----
