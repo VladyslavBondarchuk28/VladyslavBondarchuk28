@@ -15,7 +15,7 @@
 
 ### 🔗 Connect with me
 - 💻 **GitHub:** https://github.com/vladyslavbondarchuk28  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/vladyslav-bondarchuk-044302397/
 - 📧 **Email:** 2008vladbond@gmail.com  
 
 ---
